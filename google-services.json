@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310997855534",
+    "firebase_url": "https://tcgshoppr.firebaseio.com",
+    "project_id": "tcgshoppr",
+    "storage_bucket": "tcgshoppr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310997855534:android:b8046a997d008e85",
+        "android_client_info": {
+          "package_name": "com.example.kelvinlopeztorres.tcgshoppr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310997855534-vfjbcrfp96ep1u1mmj0pvedrhi1ofu7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kelvinlopeztorres.tcgshoppr",
+            "certificate_hash": "6499af21c38a14eef3a1053a038ab9501d1b9aad"
+          }
+        },
+        {
+          "client_id": "310997855534-o4jeh0mbu8uch1d5g43dev2qucvognvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMN-6Z-tkgR5W6TZ6DLpEGjuORbyNY7E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310997855534-o4jeh0mbu8uch1d5g43dev2qucvognvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
